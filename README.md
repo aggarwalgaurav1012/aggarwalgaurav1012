@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Gaurav Aggarwal.
-- 👀 I’m interested in Full Stack Web Development.
-- 🌱 I’m currently pursuing Bachelor of Technology in Information Technology field.
-- 💞️ I’m looking to collaborate in the growth of any reputed IT organisation using my skills. 
-- 📫 Contact No
+- 👋 Hello, I’m Gaurav Aggarwal
+- 👀 Full Stack Web Developer
+- 🌱 Student of Bachelor of Technology in Information Technology field.
+- 💞️ Looking to collaborate in the growth of any reputed IT organisation using my skills.
 
 <!---
 aggarwalgaurav1012/aggarwalgaurav1012 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
