@@ -1,5 +1,5 @@
-- 👋 Hello, I’m Gaurav Aggarwal
-- 👀 Full Stack Web Developer
+- 👋 Hello, My name is Gaurav Aggarwal.
+- 👀 Full Stack Web Developer.
 - 🌱 Student of Bachelor of Technology in Information Technology field.
 - 💞️ Looking to collaborate in the growth of any reputed IT organisation using my skills.
 
